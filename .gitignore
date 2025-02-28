@@ -1,6 +1,3 @@
-.conda
-pos_A_pssm.pkl
-pos_B_pssm.pkl
-neg_A_pssm.pkl
-neg_B_pssm.pkl
+conda/
+*.pkl
 
